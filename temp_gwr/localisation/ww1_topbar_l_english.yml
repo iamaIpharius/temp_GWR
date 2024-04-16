@@ -1,0 +1,5 @@
+﻿l_english:
+### Regular Tooltips ###
+ empty:0 ""
+ NUCLEAR_PRODUCTION_SPEED:0 "Chemical Weapon Plants built: $NUM|Y$\nTotal production speed: $PROC|%1+$/day"
+
