@@ -12,7 +12,7 @@ technologies = {
 			leads_to_tech = ww1_lead_by_task 
 			research_cost_coeff = 1
 		}		
-		
+		enable_tactic = tactic_banzai_charge
 		army_speed_factor = 0.05
 		army_org_factor = 0.05
 		org_loss_when_moving = +0.05
@@ -431,7 +431,7 @@ technologies = {
 		planning_speed = 0.25
 		army_speed_factor = 0.1
 		enable_tactic = tactic_unexpected_thrust
-		enable_tactic = tactic_banzai_charge
+
 		org_loss_when_moving = -0.1
 		doctrine = yes
 		research_cost = 2.25
@@ -1349,8 +1349,6 @@ technologies = {
 			hard_attack = 0.05
 		}
 		planning_speed = 0.1
-		
-		enable_tactic = tactic_banzai_charge
 			
 		doctrine = yes	
 		research_cost = 2.25
@@ -2204,7 +2202,6 @@ technologies = {
 			default_morale = 0.2
 		}
 		planning_speed = 0.5
-		enable_tactic = tactic_banzai_charge
 		
 		path = {
 			leads_to_tech = grand_battle_plan 
@@ -3063,7 +3060,6 @@ technologies = {
 		category_light_infantry = {
 			breakthrough = 0.1
 		}
-		enable_tactic = tactic_banzai_charge
 		enable_tactic = tactic_infantry_charge
 
 		doctrine = yes	
