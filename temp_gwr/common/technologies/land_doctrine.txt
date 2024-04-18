@@ -1126,6 +1126,7 @@ technologies = {
 	}
 	
 	modern_blitzkrieg = {
+		enable_subunits = {stosstruppen}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		land_night_attack = 0.15
@@ -1283,7 +1284,9 @@ technologies = {
 	}
 	
 	werwolf_guerillas = {
-
+		enable_subunits = {
+			capture_team
+		}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		#Increased Partisan effect on your land occupied by others
@@ -1802,6 +1805,9 @@ technologies = {
 	}
 	
 	combined_arms = {
+		enable_subunits = {
+			rangers_support
+		}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		
@@ -1913,6 +1919,7 @@ technologies = {
 	}
 	
 	air_land_battle = {
+		
 		xp_research_type = army
 		xp_unlock_cost = 75
 		category_front_line = {
@@ -2070,6 +2077,7 @@ technologies = {
 	}
 	
 	advanced_firebases = {
+		enable_subunits = {intendant}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		
@@ -2513,6 +2521,7 @@ technologies = {
 	}
 	
 	branch_interoperation = {
+		enable_subunits = {siege_eng}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		category_line_artillery = {
@@ -2775,6 +2784,7 @@ technologies = {
 	}
 	
 	armored_operations = {
+		enable_subunits = {trench_rats}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		acclimatization_hot_climate_gain_factor = 0.1
@@ -3313,6 +3323,7 @@ technologies = {
 	}
 	
 	operational_concentration = {
+		enable_subunits = {tachanka}
 		xp_research_type = army
 		xp_unlock_cost = 75
 		cavalry = {
@@ -3770,7 +3781,7 @@ technologies = {
 	}
 	
 	human_wave_offensive = {
-
+		enable_subunits = {long_range_patrol_support winter_logistics_support}
 		conscription = 0.01
 		xp_research_type = army
 		xp_unlock_cost = 75

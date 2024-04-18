@@ -125,5 +125,34 @@ spriteTypes = {
 		textureFile = "gfx/interface/counters/divisions_large/support_unit_hmg_icon.dds" 
 		noOfFrames = 2 
 	}
-
+	spriteType = {
+		name = "GFX_unit_capture_team_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/support_unit_capture_team_icon.dds" 
+		noOfFrames = 2 
+	}
+	spriteType = {
+		name = "GFX_unit_intendant_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/support_unit_intendant_icon.dds" 
+		noOfFrames = 2 
+	}
+	spriteType = {
+		name = "GFX_unit_stosstruppen_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/support_unit_stosstrupp_icon.dds" 
+		noOfFrames = 2 
+	}
+	spriteType = {
+		name = "GFX_unit_siege_eng_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/pioneers_support_icon.dds" 
+		noOfFrames = 2 
+	}
+	spriteType = {
+		name = "GFX_unit_trench_rats_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/support_unit_trench_rats_icon.dds" 
+		noOfFrames = 2 
+	}
+	spriteType = {
+		name = "GFX_unit_tachanka_icon_medium"								
+		textureFile = "gfx/interface/counters/divisions_large/support_unit_tachanka_icon.dds" 
+		noOfFrames = 2 
+	}
 }	
